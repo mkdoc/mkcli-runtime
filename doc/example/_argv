@@ -1,0 +1,6 @@
+#compdef argv
+_arguments \
+  "(-e --err)"{-e,--err}"[Print to stderr]" \
+  "(-h --help)"{-h,--help}"[Display help and exit]" \
+  "--version[Print version and exit]" \
+  && return 0;
