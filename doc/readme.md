@@ -12,7 +12,5 @@ Collection of plugins for command line interfaces defined using the [mkcli][] to
 <!-- @toc -->
 ***
 
-<? @include {=readme} example.md example-files.md guide.md help.md ?>
-
 <? @exec mkapi index.js --title=API --level=2 ?>
 <? @include {=readme} license.md links.md ?>
