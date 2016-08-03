@@ -1,6 +1,6 @@
 {
   "name": "mkcli-runtime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Runtime plugins for command line interfaces",
   "author": "muji",
   "license": "MIT",
